@@ -38,10 +38,3 @@ This program calculates the sum of numbers within a fixed range.
 
 ---
 
-## How to Run the Programs
-1. Ensure Python is installed on your system
-2. Open a terminal or command prompt
-3. Navigate to the project folder
-4. Run a program using:
-   ```bash
-   python filename.py
